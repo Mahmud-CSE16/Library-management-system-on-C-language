@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1512444456 source:c:\users\inter_wave\documents\cse1202\library management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<time.h>
+	<ctype.h>
+	<Windows.h>
+	"my.h"
+	"menu.h"
+	"addbook.h"
+	"searchbook.h"
+	"viewbookslist.h"
+	"editbookrecords.h"
+	"deletebooks.h"
+	"studentcorner.h"
+	"issuebooks.h"
+
+1512444491 c:\users\inter_wave\documents\cse1202\library management system\my.h
+
+1513013140 c:\users\inter_wave\documents\cse1202\library management system\mainmenu.h
+
+1512388023 c:\users\inter_wave\documents\cse1202\library management system\addbooks.h
+
+1512411970 c:\users\inter_wave\documents\cse1202\library management system\searchbooks.h
+
+1512412207 c:\users\inter_wave\documents\cse1202\library management system\editbookrecord.h
+
+1512388374 c:\users\inter_wave\documents\cse1202\library management system\viewbooklist.h
+
+1512391744 c:\users\inter_wave\documents\cse1202\library management system\deletebook.h
+
+1512054071 source:c:\users\inter_wave\documents\cse1202\library management system\addbooks.c
+
+1512054236 source:c:\users\inter_wave\documents\cse1202\library management system\deletebook.c
+
+1512054207 source:c:\users\inter_wave\documents\cse1202\library management system\editbookrecord.c
+
+1512054000 source:c:\users\inter_wave\documents\cse1202\library management system\my.c
+
+1512054121 source:c:\users\inter_wave\documents\cse1202\library management system\searchbooks.c
+
+1512054316 source:c:\users\inter_wave\documents\cse1202\library management system\viewbooklist.c
+
+1512054369 source:c:\users\inter_wave\documents\cse1202\library management system\mainmenu.c
+
+1512416112 c:\users\inter_wave\documents\cse1202\library management system\studentcorner.h
+
+1512409640 c:\users\inter_wave\documents\cse1202\library management system\issuebook.h
+
+1512442489 c:\users\inter_wave\documents\cse1202\library management system\editbookrecords.h
+
+1512412798 source:c:\users\inter_wave\documents\cse1202\library management system\untitled1h.c
+
+1512413434 c:\users\inter_wave\documents\cse1202\library management system\menu.h
+
+1512415138 c:\users\inter_wave\documents\cse1202\library management system\addbook.h
+
+1512413578 c:\users\inter_wave\documents\cse1202\library management system\searchbook.h
+
+1512413657 c:\users\inter_wave\documents\cse1202\library management system\viewbookslist.h
+
+1512415263 c:\users\inter_wave\documents\cse1202\library management system\deletebooks.h
+
+1527448068 c:\users\inter_wave\documents\cse1202\library management system\issuebooks.h
+
